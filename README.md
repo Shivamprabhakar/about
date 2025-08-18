@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Shivam Prabhakar] – .NET Core Developer | Automation Software Engineer
+# 👋 Hi, I'm Shivam Prabhakar – .NET Core Developer | Automation Software Engineer
 
 Experienced Software Developer with 3+ years in building modern web and desktop applications using **.NET Core (6, 8, 9)**, **C#**, **RESTful APIs**, **Angular**, and **SQL Server**. Skilled in creating real-time communication between software applications and **industrial PLCs** (Mitsubishi, Delta, Siemens) using **TCP/IP protocols** and tools like **Snap7**.
 
