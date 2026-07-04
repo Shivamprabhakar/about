@@ -34,8 +34,3 @@ A high-performance Software Engineer specializing in the convergence of **Inform
 
 ---
 
-### ⚡ Architectural Philosophy
-
-> "I specialize in bridging the gap between hardware registers and modern enterprise software. My code doesn't just run inside a browser—it controls physical machinery, secures plant infrastructure, and automates high-speed production lines with 99.99% uptime."
-
----
