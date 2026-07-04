@@ -1,54 +1,41 @@
-# 👋 Hi, I'm Shivam Prabhakar – .NET Core Developer | Automation Software Engineer
+# 👋 Hi, I'm Shivam Prabhakar
 
-Experienced Software Developer with 3+ years in building modern web and desktop applications using **.NET Core (6, 8, 9)**, **C#**, **RESTful APIs**, **Angular**, and **SQL Server**. Skilled in creating real-time communication between software applications and **industrial PLCs** (Mitsubishi, Delta, Siemens) using **TCP/IP protocols** and tools like **Snap7**.
+### **Senior .NET Core Developer | Industrial Automation Software Engineer (3.6+ Years Exp)**
 
----
+A high-performance Software Engineer specializing in the convergence of **Information Technology (IT)** and **Operational Technology (OT)**. Expert in architecting resilient, multi-threaded backend systems, microservices, and desktop interfaces using **.NET Core (6/8/9)** that communicate natively with **Industrial PLCs** and automation hardware under heavy manufacturing stress.
 
-### 🧰 Tech Stack
+📍 **Location:** Noida (UP), India
 
-- **Languages:** C#, Python, SQL, TypeScript
-- **Frameworks:** .NET Core, Entity Framework, Dapper, Angular, Bootstrap
-- **Tools:** Visual Studio, SSMS, MySQL Workbench, Git, Postman
-- **Databases:** SQL Server, MySQL
-- **Other:** Windows Forms, Console Apps, IIS, Snap7, TCP Client/Server
-- **Industrial Tools:** PLC Communication (Mitsubishi, Siemens, Delta), IoT Integration
+💼 **Open To:** Senior .NET Core Developer / Industrial IoT & Automation Engineer Roles
 
----
+📧 **Email:** shivamprabhakar165@gmail.com
 
-### 💼 Real-World Projects
-
-#### 📌 MatchMaster – QR Code Verification Web App  
-.NET Core MVC + SQL app to validate QR codes, show part details, and generate Kanban vendor slips with real-time reporting.
-
-#### 📌 Component Traceability  
-IoT-integrated system using .NET Core + Dapper to track production components via PLC controllers. Deployed to local IIS.
-
-#### 📌 PLC Monitoring (Snap7)  
-Reads/writes real-time signals from Siemens/Mitsubishi PLCs using Snap7 in .NET Core. Monitors machine ON/OFF status.
-
-#### 📌 Axle Tightening System  
-TCP client desktop app that receives torque data and controls tower lights/buzzer via PLCs.
-
-#### 📌 Data Logger  
-Logs real-time data from PLCs to SQL, tracks communication status (heartbeat) using a Windows service.
-
-#### 📌 MS_Feeder  
-Console-based service fetching live data from both controllers and PLCs via TCP. Stores in DB and monitors connectivity.
-
-*(More project repos coming soon...)*
+🌐 **LinkedIn:** [My Professional Network](https://www.google.com/search?q=https://www.linkedin.com/in/shivam-prabhakar-15244a221)
 
 ---
 
-### 📫 Contact Me
+### 🧰 Specialized Technical Matrix
 
-- 📧 Email: [shivamprabhakar165@gmail.com]  
-- 🌐 LinkedIn: [https://www.linkedin.com/in/shivam-prabhakar-15244a221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
-- 📍 Location: [Noida (UP), India]  
-- 💼 Looking for: .NET Core Developer / Automation Software Engineer roles
+* **Core Backend Ecosystem:** .NET Core 8/9, C# (Advanced Concurrency, Mutex, Async/Await), RESTful APIs, MVC
+* **Industrial Protocols & Hardware (OT):** PLC Communication (Siemens Snap7, Mitsubishi, Delta, Modbus TCP/IP, TCP/UDP Sockets), Telemetry Ingestion, IoT Gateways
+* **Data Tier & ORM:** SQL Server, MySQL, Entity Framework Core, Dapper (High-speed batch inserts), SSMS
+* **Frontend UI & Deployment:** Angular (TypeScript), Bootstrap, Windows Services, IIS Hosting, Console Workers
+* **DevOps & Tools:** Git, Postman, JSON/XML Serializers, Serilog (Diagnostic Logging)
 
 ---
 
-### ⚡ Fun Fact
+### 💼 High-Impact Enterprise Projects (3.6+ Years Delivery)
 
-I love solving real-world factory automation problems using modern software. Bridging **hardware with code** is what I do best.
+#### 🏭 Smart Factory Data Logger & Telemetry Suite
 
+* Architected a headless **Windows Worker Service** using .NET 8 to continuously poll high-frequency register data from multi-brand PLCs via Modbus TCP/IP.
+* Implemented a concurrent queue architecture to isolate data ingestion from file-writing I/O pipelines, ensuring zero-data-loss execution metrics.
+* Integrated a proprietary, hardware-locked AES-256 cryptographic licensing engine (HWID-bound) with live hot-reloading configurations via JSON.
+
+---
+
+### ⚡ Architectural Philosophy
+
+> "I specialize in bridging the gap between hardware registers and modern enterprise software. My code doesn't just run inside a browser—it controls physical machinery, secures plant infrastructure, and automates high-speed production lines with 99.99% uptime."
+
+---
